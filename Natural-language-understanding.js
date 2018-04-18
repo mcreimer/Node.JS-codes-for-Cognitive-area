@@ -4,7 +4,7 @@ const NaturalLanguageUnderstandingV1 = require('watson-developer-cloud/natural-l
 
 const nlu = new NaturalLanguageUnderstandingV1({
   username: '4505d022-88d0-44ea-9b70-593ba3186a5f',
-  password: 'AMbuRXoGmckZ',
+  password: 'XXXXXXXXXXXX',
   version_date: NaturalLanguageUnderstandingV1.VERSION_DATE_2016_01_23
 });
 
